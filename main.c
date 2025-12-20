@@ -28,7 +28,7 @@ int main(void) {
 int credit(void) {
 
 	printf("\n");
-	printf("Coded by @MrSulmonNX.\n");
+	printf("Coded by @SalmonNX.\n");
 	printf("\n");
 
 }
